@@ -10,16 +10,15 @@ import autobind from 'autobind-decorator';
 import { connect } from 'react-redux';
 import { Helmet } from 'react-helmet';
 import { createStructuredSelector } from 'reselect';
+
+import injectSaga from 'utils/injectSaga';
+import injectReducer from 'utils/injectReducer';
 import { compose } from 'redux';
 
-import { withStyles } from '@material-ui/core/styles';
 import { Grid, AppBar, Tabs, Tab } from '@material-ui/core';
 import List from 'components/ListComponent';
 import Add from 'components/AddComponent';
 import { addItem, getList, deleteItem } from './actions';
-
-import injectSaga from 'utils/injectSaga';
-import injectReducer from 'utils/injectReducer';
 import makeSelectHomePage, { makeSelectTodoList } from './selectors';
 import reducer from './reducer';
 import saga from './saga';
