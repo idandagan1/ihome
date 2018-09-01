@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "ihome-b58b4",
+  "private_key_id": "dacba138df2a9ff0f283592a463c951e4fd92bc0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDbMl2NwEcvn4D0\nzZsVg9Pqagx/mArBB5jSr6pcrKYmqJyWlKL/a0FdzdW7t86z5wZOTicIRrCz+BOe\nwPjmxmozSHBKs14LVOx0/Oj1eFfVHAqHjTj8LdDE1mftyJuPqxzxf/5l/qJbzjAC\nPtZO12xEyUohtfPdI/vrCYB83iE8PkSha+tMwv2PVXl3U7Y9lEUycvsyu8rY3ave\neLxBZphxbzy5sBv+J31DonFr5Cep5rBLHieCsVDImmybx6EoxUVZi4h+X8+ly5JZ\nJB3sPawygB+0TkvIOUrysFvcay3zOVMTsimfceYQFsF5JRKtJygVCINSKSi6X/VY\nEOhfp609AgMBAAECggEACFDJlExYVwHr1D2tlbwd0L2LslZ8B/UoEswXwDLLjdll\nMWA7q8lvniWmJ1wygwgvaM6Vs/5sizNM2T+0YZri4gWsPuU9mtvyqYCDvPY/DMZm\nztwoboa1bhY9NJvg7OseqrnClq95jNaOYzNrkWuiP5zMS2mZ8giAsNq4LWSG6cBX\n+z67t6nMhUhc2Xg2gV7wH8xW8q5c4iwyWAH8GVMJ4AgKwXM+Yd+MQ5quxffpSYx7\n357H+kMXQZ/1/KW49nYjMUFMrIBLzMWqKqvnnUYUfwzqO2l5BlZ/zKaRtBxMUd7W\nJ2dKUF78zN2BeKTd1TOjY1XXe1bx49dRI88UzKiGQQKBgQD8YNENGg1ZSNZQT/nM\nn+3U71NYKWbdJA7hc/8m+r0+BbP5OH8vdAET2pnv6jYgVabHnL9V8+oBqUyHPiBs\nqO2Xo1S5J1Tl0lu5dl9zEtt0E/+lP8c6TJJCR6pAk2zYj2/Eha6wz1T08siNLFOX\nCZ6/bQG3PhbHv/wjolvQSHhnwQKBgQDeV6W1guSTTaOferIu2h951ujiie4v74qz\n2GIltLfnA52HQd3stTJ4bX3zmnnFy49HOB+WUmhSHKFqduJSeClDdit9rri3G6VL\nA91S+YpmVmv1ffQkUdHnuqmbOl9B/TDoIu8w39X6/RjVRcGNItPze8DMheiaMqpa\nYnZMmr4EfQKBgBBukU3kE1hr2KBUBLSg+RAzIN8Nmwfs8BcXwVYdXzLpliU023sQ\nd31+byViv3FtgjVe7EpBXkwLZNMtZVkNyqJj3QFNIUbxYk15+o74fFdbcfqlY2hV\nUfSEy/32W1DiTemitpQGe8aTBCHE8BBWbQKTq1ft7/fDdTwwtv+hqE1BAoGBAMeH\nxmjuryvWB9ltpYvQKWEQ0OvDtiIEiOe+bs3BsSu6ndqs7HipX0Kdl+NOJKuxcsIK\nBqbDC2Vs1hqR16cEuJsW6A6hBpkkUSDRtgPpdx9BvR6QytDxMDsR03U/XA7/Ja2c\n9CRbK09TZL64G+sJb0XZL/sazNPcVe5I4Dr8vzuNAoGBAPOfQsb4T1r/08xyPu5Y\n4CflEFTI4CsmNoTpZy9fm7roIWqWVl2bV42Av18/TXOakA0TJ53ewraqEl+grB0D\n2BeU4QICmdzBdopZLL+1+2SnJpmIzoQGqvk2jUuJGq/SFYkZxEhe2/R4b+Mhzvq0\np/TGiodYM1LNfJslVYin78jx\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-86pik@ihome-b58b4.iam.gserviceaccount.com",
+  "client_id": "108140181692691362547",
+  "databaseURL" : "https://ihome-b58b4.firebaseio.com/",
+  "timestampsInSnapshots": true,
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-86pik%40ihome-b58b4.iam.gserviceaccount.com"
+}
